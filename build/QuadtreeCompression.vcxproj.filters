@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DANENDRA\OneDrive\Documents\ITB\SEMESTER 4\IF2211 Strategi Algoritma\Tucil 2\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DANENDRA\OneDrive\Documents\ITB\SEMESTER 4\IF2211 Strategi Algoritma\Tucil 2\src\Quadtree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DANENDRA\OneDrive\Documents\ITB\SEMESTER 4\IF2211 Strategi Algoritma\Tucil 2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E3F8E752-21A3-3FB0-A120-B2F5E73E43C7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

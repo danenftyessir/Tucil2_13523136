@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "MinGW GCC 14.2.0",
+      "compilerPath": "C:/gcc-14.2.0/bin/g++.exe",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/gcc-14.2.0/mingw/include",
+        "C:/gcc-14.2.0/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++",
+        "C:/gcc-14.2.0/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+        "C:/gcc-14.2.0/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/backward",
+        "C:/gcc-14.2.0/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed"
+      ],
+      "defines": [],
+      "cStandard": "c11",
+      "cppStandard": "c++11",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,3 @@
+C:/Users/DANENDRA/OneDrive/Documents/ITB/SEMESTER 4/IF2211 Strategi Algoritma/Tucil 2/build/CMakeFiles/QuadtreeCompression.dir
+C:/Users/DANENDRA/OneDrive/Documents/ITB/SEMESTER 4/IF2211 Strategi Algoritma/Tucil 2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DANENDRA/OneDrive/Documents/ITB/SEMESTER 4/IF2211 Strategi Algoritma/Tucil 2/build/CMakeFiles/ZERO_CHECK.dir
