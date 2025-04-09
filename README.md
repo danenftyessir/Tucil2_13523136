@@ -3,11 +3,11 @@
 ## 絆 (Kizuna) - Ikatan Digital
 
     ```bash
-    _/    _/  _/  _/_/_/_/  _/    _/  _/    _/    _/_/    
-   _/  _/    _/      _/    _/    _/  _/_/  _/  _/    _/   
-  _/_/      _/     _/     _/    _/  _/ _/_/_/  _/_/_/_/   
- _/  _/    _/    _/      _/    _/  _/    _/   _/    _/    
-_/    _/  _/   _/_/_/_/  _/_/_/   _/    _/   _/    _/  
+        _/    _/  _/  _/_/_/_/  _/    _/  _/    _/    _/_/    
+       _/  _/    _/      _/    _/    _/  _/_/  _/  _/    _/   
+      _/_/      _/     _/     _/    _/  _/ _/_/_/  _/_/_/_/   
+     _/  _/    _/    _/      _/    _/  _/    _/   _/    _/    
+    _/    _/  _/   _/_/_/_/  _/_/_/   _/    _/   _/    _/  
     ```
     
 KIZUNA, yang dalam bahasa Jepang berarti "ikatan" atau "hubungan", adalah program kompresi gambar yang mengimplementasikan algoritma Quadtree dengan pendekatan Divide and Conquer. Program ini menghubungkan pixel-pixel dalam gambar secara cerdas, membentuk struktur hierarkis yang mengoptimalkan penyimpanan data visual.
